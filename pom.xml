@@ -17,6 +17,9 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
+    <sonar.host.url>https://sonarcloud.io/</sonar.host.url>
+    <sonar.login>66af6fc475bb1f4bf02b882454ae65a218c2a504</sonar.login>
+    <sonar.organization>mavenproject1</sonar.organization>
   </properties>
 
   <dependencies>
