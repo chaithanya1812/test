@@ -12,7 +12,7 @@ mvn sonar:sonar
 ```
  Configure SonarQube sever details in pom.xml:
 
- 1-firstway 
+ 1-firstway(Password) 
 ```bash
  <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -24,7 +24,7 @@ mvn sonar:sonar
   </properties>
   
 ```
-2-Secondway
+2-Secondway(Token)
 ```bash
  <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
