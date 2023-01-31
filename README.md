@@ -37,7 +37,7 @@ mvn sonar:sonar
 
 1) First install java on that server.
 2) configure users in  conf/tomcat-users.xml
-   under this tag <tomcat-users> </tomcat-users>.
+   under this #tomcat-users tag. 
 ```bash
 <tomcat-users>
 <user username="tomcat" password="12345" roles="manager-gui, manager-script, manager-jmx, manager-status"/>
