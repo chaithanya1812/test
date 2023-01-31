@@ -35,8 +35,32 @@ mvn sonar:sonar
 ```
 ## To deploy into Tomcat Server:
 
-1) First install java on that server.
-2) configure users in  conf/tomcat-users.xml
+## Installation
+
+Install Apche-Tomcat
+
+```bash
+ # TO install java:
+  yum install java-11* -y
+ # TO install tomcat:
+ cd /opt
+ wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.71/bin/apache-tomcat-9.0.71.tar.gz
+ tar -xvzf apache-tomcat-9.0.71
+ mv apache-tomcat-9.0.71 tomcat
+ #To start Tomcat
+ cd tomcat
+ cd bin
+ sh startup.sh
+ #To stop Tomcat
+ cd tomcat
+ cd bin
+ sh shutdown.sh
+ # To create softlink for startup.sh
+ ln -s /opt/tomcat/bin/startup.sh /usr/bin/tomcatstart
+ # To create softlink for shutdown.sh
+ ln -s /opt/tomcat/bin/shutdown.sh /usr/bin/tomcatstop
+```
+configure users in  conf/tomcat-users.xml
    under this #tomcat-users tag. 
 ```bash
 <tomcat-users>
