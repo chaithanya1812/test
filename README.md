@@ -21,7 +21,7 @@ mvn sonar:sonar
     <!-- <sonar.host.url>SonarQube Server url:Portnumber</sonar.host.url> -->
     <!--- <sonar.login>admin</sonar.login> -->
     <!--- <sonar.password>password</sonar.password> -->
-  </properties>
+ </properties>
   
 ```
 2-Secondway(Token)
@@ -32,6 +32,7 @@ mvn sonar:sonar
     <maven.compiler.target>1.7</maven.compiler.target>
     <!-- <sonar.host.url>SonarQube Server url:Portnumber</sonar.host.url> -->
     <!--- <sonar.login>SonarQube Token</sonar.login> -->  
+ </properties>   
 ```
 ## To deploy into Tomcat Server:
 
