@@ -17,10 +17,24 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
-    <sonar.host.url>https://sonarcloud.io/</sonar.host.url>
-    <sonar.login>19035c9baf60bcf10fdf4bbfab06c9e9dbcc807a</sonar.login>
-    <sonar.organization>mavenproject1</sonar.organization>
+    <sonar.host.url>http://13.234.48.130:9000/</sonar.host.url>
+    <sonar.login>12495de66fae48920f47af1b8f798e8bbe2951a2</sonar.login>
+    <!-- <sonar.organization>mavenproject1</sonar.organization> -->
   </properties>
+  <distributionManagement>
+
+        <repository>
+                <id>chaitu</id>
+                <name>samplerelease</name>
+                <url>http://3.6.91.135:8081/repository/sample-release/</url>
+        </repository>
+        <snapshotRepository>
+                <id>chaitu</id>
+                <name>samplesnapshot</name>
+                <url>http://3.6.91.135:8081/repository/sample/</url>
+        </snapshotRepository>
+
+  </distributionManagement>
 
   <dependencies>
     <dependency>
