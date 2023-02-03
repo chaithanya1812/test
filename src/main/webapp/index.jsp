@@ -14,7 +14,7 @@ see: https://www.youtube.com/watch?v=p0bGHP-PXD4 -->
     />
     <link rel="stylesheet" href="utilities.css" />
     <link rel="stylesheet" href="style.css" />
-    <title>Chaitu | Cloud Hosting For Everyone</title>
+    <title>Chaitu Loukri | Cloud Hosting For Everyone</title>
   </head>
   <body>
     <!-- Navbar -->
