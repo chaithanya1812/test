@@ -6,7 +6,7 @@
 
   <groupId>com.in.chaitu</groupId>
   <artifactId>cloud-hosting-service</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>war</packaging>
 
   <name>cloud-hosting-service Maven Webapp</name>
