@@ -35,7 +35,7 @@ see: https://www.youtube.com/watch?v=p0bGHP-PXD4 -->
     <section class="showcase" id="demo">
       <div class="container grid">
         <div class="showcase-text">
-          <h1>Easier Deployment</h1>
+          <h1>Chaitu  Deployment</h1>
           <p>
             Deploying web apps of all kinds, from large scale enterprise APIs to
             static websites for individuals. Fill out the form to try a demo of
