@@ -14,7 +14,7 @@ see: https://www.youtube.com/watch?v=p0bGHP-PXD4 -->
     />
     <link rel="stylesheet" href="utilities.css" />
     <link rel="stylesheet" href="style.css" />
-    <title>Loruki | Cloud Hosting For Everyone</title>
+    <title>Chaitu | Cloud Hosting For Everyone</title>
   </head>
   <body>
     <!-- Navbar -->
@@ -37,7 +37,7 @@ see: https://www.youtube.com/watch?v=p0bGHP-PXD4 -->
         <div class="showcase-text">
           <h1>Easier Deployment</h1>
           <p>
-            Deploy web apps of all kinds, from large scale enterprise APIs to
+            Deploying web apps of all kinds, from large scale enterprise APIs to
             static websites for individuals. Fill out the form to try a demo of
             our platform
           </p>
