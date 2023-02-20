@@ -69,3 +69,16 @@ configure users in  conf/tomcat-users.xml
 <user username="tomcat" password="12345" roles="manager-gui, manager-script, manager-jmx, manager-status"/>
 </tomcat-users>
 ```
+## Jenkins-dashboard
+![test3](https://user-images.githubusercontent.com/111736742/220179478-046b21ed-3085-41a0-b81b-97b281b4161a.png)
+## SonarQube-server
+![test1](https://user-images.githubusercontent.com/111736742/220179592-233ed04d-ad47-4404-a4c8-e7d97f91a3e0.png)
+## Nexus-server
+![test2](https://user-images.githubusercontent.com/111736742/220179691-ba0b0754-e0cf-41a3-b6e0-a38a55e97d66.png)
+## Deployment-Approval
+![test6](https://user-images.githubusercontent.com/111736742/220179734-85e53543-01c4-4848-b473-471cac2aa397.png)
+## Tomcat-Deploy
+![test5](https://user-images.githubusercontent.com/111736742/220179794-ade72b0f-0a3e-4657-b81e-3dd84326909f.png)
+
+
+
