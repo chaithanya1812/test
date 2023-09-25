@@ -1,5 +1,5 @@
 <!-- Based on Build a Responsive Website by Brad Traversy (2020)
-see: https://www.youtube.com/watch?v=p0bGHP-PXD4 -->
+see: https://www.youtube.com/watch?v=p0bGHP-PXD4 this -->
 
 <!DOCTYPE html>
 <html lang="en">
