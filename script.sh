@@ -3,6 +3,6 @@ while true
 do
 echo "###########"
 echo "This is ${Name}"
-eho "#############"
+echo "#############"
 sleep 3s
 done
