@@ -1,7 +1,6 @@
 <!-- Based on Build a Responsive Website by Brad Traversy (2020)
 s -->
-ssssssssssslakdddddddddddd
-slaaaaaaaaaaaaaaa
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
