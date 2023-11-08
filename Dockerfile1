@@ -1,5 +1,5 @@
 FROM alpine
 COPY script.sh /script.sh
 RUN chmod 777 /script.sh
-ENV Name Chaithnay
+ENV Name Chaithanya
 CMD ["/script.sh"]
